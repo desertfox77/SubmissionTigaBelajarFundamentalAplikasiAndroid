@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">SubDua</string>
+    <string name="name" translatable="false">Github User</string>
+    <string name="deskripsi">Open this app and search!</string>
+    <string name="location">Location : </string>
+    <string name="email">Email : </string>
+    <string name="detailfollowers">Followers : </string>
+    <string name="detailfollowing">Following : </string>
+    <string name="favorite_app">List Favorite</string>
+    <string name="error">Error 404 Not Found</string>
+    <string name="back">Back</string>
+    <string name="notifikasi">Allow Notifications</string>
+    <string name="fragmentfollowers">Followers</string>
+    <string name="fragmentfollowing">Following</string>
+    <string name="search">Search Here</string>
+    <string name="loading">Loading</string>
+    <string name="notif">notif</string>
+    <string name="love">love</string>
+    <string name="leo">Leo</string>
+</resources>
